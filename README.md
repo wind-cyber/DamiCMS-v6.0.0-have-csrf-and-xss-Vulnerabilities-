@@ -1,3 +1,4 @@
+Malicious JavaScript has access to all the same objects as the rest of the web page, including access to cookies and local storage, which are often used to store session tokens. If an attacker can obtain a user's session cookie, they can then impersonate that user.
 
 After the administrator login in,open the poc
 poc：

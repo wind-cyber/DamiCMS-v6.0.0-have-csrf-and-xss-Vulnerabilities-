@@ -1,0 +1,1 @@
+# DamiCMS-v6.0.0-have-csrf-and-xss-Vulnerabilities-
